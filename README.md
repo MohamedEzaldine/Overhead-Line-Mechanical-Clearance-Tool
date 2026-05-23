@@ -1,1 +1,0 @@
-# Overhead-Line-Mechanical-Clearance-Tool
