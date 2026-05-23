@@ -17,11 +17,11 @@ Overhead-Line-Mechanical-Clearance-Tool
 Screenshots
 
 <div align="center">
-  <img src="main.jpg" width="30%" />
+  <img src="main.JPG" width="30%" />
   &nbsp;&nbsp;
-  <img src="thermal.jpg" width="30%" />
+  <img src="thermal.JPG" width="30%" />
   &nbsp;&nbsp;
-  <img src="wind.jpg" width="30%" />
+  <img src="wind.JPG" width="30%" />
 </div>
 
 ---
