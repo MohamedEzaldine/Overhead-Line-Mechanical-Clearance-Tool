@@ -17,11 +17,11 @@ Overhead-Line-Mechanical-Clearance-Tool
 Screenshots
 
 <div align="center">
-
-| Main Interface | Thermal Analysis | Wind Load |
-|:-:|:-:|:-:|
-| ![Main](main.jpg) | ![Thermal](thermal.jpg) | ![Wind](wind.jpg) |
-
+  <img src="main.jpg" width="30%" />
+  &nbsp;&nbsp;
+  <img src="thermal.jpg" width="30%" />
+  &nbsp;&nbsp;
+  <img src="wind.jpg" width="30%" />
 </div>
 
 ---
