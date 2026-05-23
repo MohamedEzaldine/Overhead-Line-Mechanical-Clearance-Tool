@@ -20,7 +20,7 @@ Screenshots
 
 | Main Interface | Thermal Analysis | Wind Load |
 |:-:|:-:|:-:|
-| ![Main](screenshots/main.jpg) | ![Thermal](screenshots/thermal.jpg) | ![Wind](screenshots/wind.jpg) |
+| ![Main](main.jpg) | ![Thermal](thermal.jpg) | ![Wind](wind.jpg) |
 
 </div>
 
