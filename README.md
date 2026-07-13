@@ -9,6 +9,7 @@ Overhead-Line-Mechanical-Clearance-Tool
 [![IEC 60826](https://img.shields.io/badge/IEC-60826:2017-1B3A6B?style=flat-square)](https://www.iec.ch/)
 [![IEEE 738](https://img.shields.io/badge/IEEE-738--2023-2563EB?style=flat-square)](https://standards.ieee.org/)
 [![EEHC](https://img.shields.io/badge/EEHC-AL3%20Spec-0F766E?style=flat-square)](.)
+[![CIRED 2027](https://img.shields.io/badge/workgroup-CIRED-success.svg)](#)
 
 </div>
 
